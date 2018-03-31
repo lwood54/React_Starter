@@ -1,0 +1,15 @@
+{
+  "name": "react_starter",
+  "version": "1.0.0",
+  "description": "React boilerplate w Webpack and Babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Logan Wood",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0"
+  }
+}
